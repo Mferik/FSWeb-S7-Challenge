@@ -1,0 +1,13 @@
+.mainOnay{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: yellow;
+    background-color: brown;
+}
+
+.moped svg{
+    font-size: 150px;
+}
